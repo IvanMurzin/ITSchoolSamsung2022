@@ -10,3 +10,5 @@
 ---
 1.3 - [Массивы](https://docs.google.com/presentation/d/1gO8lxUpm3JfCdyTrS1q44bHXhlM2bmvWr4AQEqCXTfI/edit?usp=sharing)
 ---
+1.4 - [Функции](https://docs.google.com/presentation/d/1wFLkaj20S6ofaswXi-eoJ8DWoo7Wpyfl7RJqIqr5FHU/edit#slide=id.gf3452c4df9_0_0)
+---
