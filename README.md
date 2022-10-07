@@ -12,3 +12,5 @@
 ---
 1.4 - [Функции](https://docs.google.com/presentation/d/1wFLkaj20S6ofaswXi-eoJ8DWoo7Wpyfl7RJqIqr5FHU/edit#slide=id.gf3452c4df9_0_0)
 ---
+1.5 - [Многомерные массивы](https://docs.google.com/presentation/d/1AfrUjnr7Awyjko6JCdQ8BYdBCmrIJr0tTSY75VHLJyg/edit#slide=id.gfb26fccb67_0_23)
+---
