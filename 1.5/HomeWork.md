@@ -1,7 +1,13 @@
-# Задача 1 - [Таблица умножения](https://myitschool.ru/edu/mod/quiz/attempt.php?attempt=72520&cmid=498&page=3)
+# Задача 1 - Таблица умножения
+
+Раздел 1.11 Задача 4
+
 --- 
 
-# Задача 2 - [Заполнение змейкой](https://myitschool.ru/edu/mod/quiz/attempt.php?attempt=72520&cmid=498&page=4)
+# Задача 2 - Заполнение змейкой
+
+Раздел 1.11 Задача 6
+
 ---
 
 # Задача 3 - Спираль:
