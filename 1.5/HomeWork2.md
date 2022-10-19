@@ -24,3 +24,4 @@
 * 5<br>true true false true false -> true true false true false<br>
 * 6<br>true true true true true true -> true true true true true true<br>
 * 3<br>false false false -> false false false <br>
+* 31<br>false false true false false false false false false false false false false false false false false false false false false false false false false false false false true false false ->false false true false false false false false false false false false false false false false false false false false false false false false false false false false true false false <br>
