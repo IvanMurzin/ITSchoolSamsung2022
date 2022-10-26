@@ -14,3 +14,7 @@
 ---
 1.5 - [Многомерные массивы](https://docs.google.com/presentation/d/1AfrUjnr7Awyjko6JCdQ8BYdBCmrIJr0tTSY75VHLJyg/edit#slide=id.gfb26fccb67_0_23)
 ---
+[Kotlin](https://docs.google.com/presentation/d/1_CXuEfJDitHU7AqxQln_xbfWehPg0b3o2s3G4LNUqVk/edit#slide=id.g16f4b1284d5_0_0)
+---
+2.1 - [Парадигма ООП](https://docs.google.com/presentation/d/1FPj_2GpvfSY8AdF3XJd5I2cn1aFLTv4kO45jE_ldRQs/edit#slide=id.g1003b237311_0_56)
+---
