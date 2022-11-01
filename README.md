@@ -18,3 +18,5 @@
 ---
 2.1 - [Парадигма ООП](https://docs.google.com/presentation/d/1FPj_2GpvfSY8AdF3XJd5I2cn1aFLTv4kO45jE_ldRQs/edit#slide=id.g1003b237311_0_56)
 ---
+2.2 - [Работа с экземплярами классов](https://docs.google.com/presentation/d/1p0ewcZuGPzcfaomfK4167tj7NRqv9DOw5LNVih7EuUE/edit#slide=id.g1008eba0828_0_0)
+---
