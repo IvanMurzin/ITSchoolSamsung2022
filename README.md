@@ -22,3 +22,7 @@
 ---
 2.3 - [Разработка android-приложений](https://docs.google.com/presentation/d/1EYlOFAWfyhrLkpbtnScV_vBo1M-vKrcUozz7DMZ2Ew8/edit#slide=id.gfa6e2fec35_0_0)
 ---
+2.6 - [ООП, SOLID](https://docs.google.com/presentation/d/1ZGAXb2GoH4Li5siJBjy8oR75UWMoRI2K43XEaM7Enkg/edit#slide=id.g104a3fda450_0_0)
+---
+
+
