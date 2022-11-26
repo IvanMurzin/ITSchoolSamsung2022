@@ -24,5 +24,7 @@
 ---
 2.6 - [ООП, SOLID](https://docs.google.com/presentation/d/1ZGAXb2GoH4Li5siJBjy8oR75UWMoRI2K43XEaM7Enkg/edit#slide=id.g104a3fda450_0_0)
 ---
+2.7 - [Intent](https://docs.google.com/presentation/d/1TKE4izChkP_euy9i5UAa9ziQ34gWQXEOK7cjIReC_BA/edit#slide=id.g1044d71ae5f_0_8)
+---
 
 
