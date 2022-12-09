@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forbes">
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffet</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+    </string-array>
+
+    <string-array name="adventure_time">
+        <item>Jake the Dog</item>
+        <item>Fin the Human</item>
+        <item>Princess Bubblegum</item>
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffet</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Jake the Dog</item>
+        <item>Fin the Human</item>
+        <item>Princess Bubblegum</item>
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffet</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Jake the Dog</item>
+        <item>Fin the Human</item>
+        <item>Princess Bubblegum</item>
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffet</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Jake the Dog</item>
+        <item>Fin the Human</item>
+        <item>Princess Bubblegum</item>
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffet</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Jake the Dog</item>
+        <item>Fin the Human</item>
+        <item>Princess Bubblegum</item>
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffet</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+    </string-array>
+</resources>
