@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        app:cardCornerRadius="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/news_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/bg"
+                android:textSize="20sp"
+                tools:text="We're no strangers to love You know the rules and so do I (do I) " />
+
+            <ImageView
+                android:id="@+id/news_image"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_margin="20dp"
+                tools:src="@drawable/news1" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginHorizontal="10dp"
+                android:orientation="horizontal">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/like_layout"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    app:cardCornerRadius="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#9DBCDC"
+                        android:paddingHorizontal="5dp"
+                        android:paddingVertical="10dp">
+
+                        <ImageView
+                            android:id="@+id/like_icon"
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/not_liked" />
+
+                        <TextView
+                            android:id="@+id/like_count"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:textColor="@color/bg"
+                            android:textSize="20sp"
+                            tools:text="100" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/comment_layout"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="10dp"
+                    app:cardCornerRadius="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/item_mini_card"
+                        android:paddingHorizontal="5dp"
+                        android:paddingVertical="10dp">
+
+                        <ImageView
+                            android:id="@+id/comment_icon"
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/comment" />
+
+                        <TextView
+                            android:id="@+id/comment_count"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:textColor="@color/bg"
+                            android:textSize="20sp"
+                            tools:text="10" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/repost_layout"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    app:cardCornerRadius="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:background="@color/item_mini_card"
+                        android:paddingHorizontal="5dp"
+                        android:paddingVertical="10dp">
+
+                        <ImageView
+                            android:id="@+id/repost_icon"
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/repost" />
+
+                        <TextView
+                            android:id="@+id/repost_count"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_marginHorizontal="5dp"
+                            android:gravity="center"
+                            android:textColor="@color/bg"
+                            android:textSize="20sp"
+                            tools:text="10" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+            </RelativeLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</FrameLayout>
