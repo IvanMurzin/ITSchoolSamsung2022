@@ -28,5 +28,13 @@
 ---
 3.0 - [ListView, ArrayAdapter](https://docs.google.com/presentation/d/1xpe7DhTWLvLS2abTxAoBFauJFDmVPufF5Kk8hjwqPOU/edit#slide=id.g1131de8e9bc_0_0)
 ---
-
+3.1 - [File и обработка исключений](https://docs.google.com/presentation/d/1QwPecdAPDhPGa-jsjF2Y12OtJi6t8LfSl5QJ4wDwO2s/edit?usp=sharing)
+---
+3.2 - [Внутренние и анонимные классы](https://docs.google.com/presentation/d/1zGVzNflkgyEeX0FSi4MAYZUhhMfMUlOT8JMUHCylYkE/edit?usp=sharing)
+---
+3.3 -  [Параллелизм и синхронизация, потоки](https://docs.google.com/presentation/d/1-0cal4jI1qcD9-2BfiB6_qQj7axk9kn-W_aGmOmLApo/edit?usp=sharing)
+---
+3.4 - [Фрагменты и Сенсоры](https://docs.google.com/presentation/d/1odTDQWJ4ckLPhqHCpC9CTeQ9booStqFbwGFc3FX2G9s/edit?usp=sharing)
+---
+3.5 - [Двумерная Графика](https://docs.google.com/presentation/d/1KESOden2F3vytsr5cVFspb-x7uozShbGdsxW9OZGBlI/edit?usp=sharing)
 
