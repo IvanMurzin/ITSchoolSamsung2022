@@ -37,4 +37,5 @@
 3.4 - [Фрагменты и Сенсоры](https://docs.google.com/presentation/d/1odTDQWJ4ckLPhqHCpC9CTeQ9booStqFbwGFc3FX2G9s/edit?usp=sharing)
 ---
 3.5 - [Двумерная Графика](https://docs.google.com/presentation/d/1KESOden2F3vytsr5cVFspb-x7uozShbGdsxW9OZGBlI/edit?usp=sharing)
+---
 
